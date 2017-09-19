@@ -111,11 +111,11 @@ margin:10px;
 }
 
 .read{
-  padding-top: 6em;
+  padding-top: 4.7em;
     background: #e4e4e4;
     position: relative;
     top: 50px;
-    height: 12.5em;
+    height: 10.4em;
     width: 10em;
     right: 2em;
     border-radius: 0 30px;
@@ -219,4 +219,28 @@ left:4em;
     .dropdown.dropdown-lg .dropdown-menu {
         min-width: 500px;
     }
+}
+.full
+{
+    display: inline-block;
+}
+.fulltime
+{
+    display: inline-block;
+    background-color: coral;
+    width: 90px;
+    border-radius: 30px;
+    font-weight: bold;
+    padding-left: 15px;
+    height: 20px;
+}
+.parttime
+{
+    display: inline-block;
+    background-color: cadetblue;
+    width: 90px;
+    border-radius: 30px;
+    font-weight: bold;
+    padding-left: 15px;
+    height: 20px;
 }
